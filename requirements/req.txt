@@ -1,1 +1,6 @@
-
+Requirements:
+Python 3 
+Anaconda Navigator
+Google facets
+Spyder(IDE)
+Given Dataset
