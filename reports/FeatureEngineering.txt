@@ -1,0 +1,4 @@
+
+From the given data set using the date column< I generated number of products ordered per specific year with which we can predict if the demand is increasing year by year or if it is decreasing.Source code is included in featureengineering.ipynb
+
+Used ARIMA model for time series forecasting
